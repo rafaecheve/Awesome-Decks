@@ -15,5 +15,8 @@ Curated list of pitch deck slides
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
  
-##Tools
+## Tools
  [updatemyvc](http://updatemyvc.com/post/81994044620/investor-update)
+
+## Articles
+ [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
