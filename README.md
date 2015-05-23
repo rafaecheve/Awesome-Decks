@@ -14,3 +14,6 @@ Curated list of pitch deck slides
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
+ 
+##Tools
+ [updatemyvc](http://updatemyvc.com/post/81994044620/investor-update)
