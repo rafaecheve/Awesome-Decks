@@ -11,6 +11,7 @@ Curated list of pitch deck slides
   4. [8 things you should never, ever include in a pitch deck](http://thenextweb.com/entrepreneur/2014/09/21/8-things-never-ever-include-pitch-deck/)
   5. [The Only 10 Slides You Need in Your Pitch](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
   6. [The Art of the Pitch](http://pt.slideshare.net/saren/the-art-of-the-pitch-44283008)
+  7. [Mark Cuban's 12 Rules for Startups](http://www.entrepreneur.com/article/222524)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
