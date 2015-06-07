@@ -12,6 +12,7 @@ Curated list of pitch deck slides
   5. [The Only 10 Slides You Need in Your Pitch](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
   6. [The Art of the Pitch](http://pt.slideshare.net/saren/the-art-of-the-pitch-44283008)
   7. [Mark Cuban's 12 Rules for Startups](http://www.entrepreneur.com/article/222524)
+  8. [5 ways not to pitch your product.](https://medium.com/@bramk/5-ways-not-to-pitch-your-product-a55ac940841b?sf=mepjj)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
