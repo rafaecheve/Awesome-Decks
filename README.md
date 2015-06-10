@@ -16,6 +16,7 @@ Curated list of pitch deck slides
   9. [Lessons From A Study of Perfect Pitch Decks: VCs Spend An Average of 3 Minutes, 44 Seconds On Them](http://techcrunch.com/2015/06/08/lessons-from-a-study-of-perfect-pitch-decks-vcs-spend-an-average-of-3-minutes-44-seconds-on-them/)
   10. [10 Tips for Creating a Small Business Plan](https://www.legalzoom.com/articles/10-tips-for-creating-a-small-business-plan?utm_campaign=Newsletter_2015_06_June)
   11. [Lessons from a Study of Perfect Pitch Decks](https://docsend.com/view/p8jxsqr)
+  12. [Price Points: Six Steps To Valuing A Tech Startup](http://www.entrepreneur.com/article/246651)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
