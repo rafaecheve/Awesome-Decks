@@ -18,6 +18,7 @@ Curated list of pitch deck slides
   11. [Lessons from a Study of Perfect Pitch Decks](https://docsend.com/view/p8jxsqr)
   12. [Price Points: Six Steps To Valuing A Tech Startup](http://www.entrepreneur.com/article/246651)
   13. [The 4 Steps to Create Great Presentations [SlideShare]](http://blog.usefedora.com/post/121927807958/the-4-steps-to-create-great-presentations)
+  14. [A Fundraising Template Every Entrepreneur Can Use](http://techcrunch.com/2015/05/30/how-much-does-your-startup-need-to-raise/)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
