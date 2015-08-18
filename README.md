@@ -22,6 +22,7 @@ Curated list of pitch deck slides
   15. [How to Be ‘Pitch Perfect': 5 Essential Elements for Your Pitch Deck](https://blog.slideshare.net/2015/06/22/how-to-be-pitch-perfect-5-essential-elements-for-your-pitch-deck/)
   16. [The Guy Kawasaki Guide to Pitching](http://www.lynda.com/articles/guy-kawasaki-guide-to-pitching/)
   17. [PITCH DECK COLLECTION FROM VC FUNDED STARTUPS](http://alexanderjarvis.com/blog/2015/05/19/pitch-deck-collection-from-vc-funded-startups/?utm_content=bufferb39a2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+  18. [What we learned from designing 200 pitch decks](http://www.sketchdeck.com/blog/what-we-learned-from-designing-200-pitch-decks/?utm_content=bufferc6c85&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
