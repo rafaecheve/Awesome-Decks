@@ -26,6 +26,7 @@ Curated list of pitch deck slides
   19. [LESSONS FROM THE EARLY PITCH DECKS OF AIRBNB, BUZZFEED, AND YOUTUBE](http://www.fastcompany.com/3050985/lessons-learned/lessons-from-the-early-pitch-decks-of-airbnb-buzzfeed-and-youtube)
   20. [Dave McClure’s 10 tips for the perfect investment pitch](http://thenextweb.com/entrepreneur/2011/10/29/dave-mcclures-10-tips-for-the-perfect-investment-pitch/)
   21. [Pitch perfect: A startup’s guide to getting coverage](http://thenextweb.com/media/2011/08/21/pitch-perfect-a-startups-guide-to-getting-coverage/)
+  22. [10 Tips for the Perfect Pitch](http://thenextweb.com/entrepreneur/2010/10/28/10-tips-for-the-perfect-pitch/)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
