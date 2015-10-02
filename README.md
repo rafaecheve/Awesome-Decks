@@ -36,6 +36,7 @@ Curated list of pitch deck slides
  - [updatemyvc](http://updatemyvc.com/post/81994044620/investor-update)
  - [One Simple Paragraph Every Entrepreneur Should Add to Their Convertible Notes](http://www.bothsidesofthetable.com/2015/05/30/one-simple-paragraph-every-entrepreneur-should-add-to-their-convertible-notes)
  - [A PITCH DECK TEMPLATE THAT JUST WORKS](https://pitchdeck.improvepresentation.com)
+ - [Pitchdeck](https://itunes.apple.com/us/app/pitchdeck/id1029283199/?ref=producthunt)
 
 ## Articles
  [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
