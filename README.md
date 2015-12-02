@@ -28,6 +28,7 @@ Curated list of pitch deck slides
   21. [Pitch perfect: A startup’s guide to getting coverage](http://thenextweb.com/media/2011/08/21/pitch-perfect-a-startups-guide-to-getting-coverage/)
   22. [10 Tips for the Perfect Pitch](http://thenextweb.com/entrepreneur/2010/10/28/10-tips-for-the-perfect-pitch/)
   23. [Building Your Best Sales Deck Starts Here](http://firstround.com/review/building-your-best-sales-deck-starts-here/)
+  24. [How to Design a Better Pitch Deck By Kevin Hale YC](http://macro.ycombinator.com/articles/2015/11/how-to-design-a-better-pitch-deck/)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
