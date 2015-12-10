@@ -44,6 +44,6 @@ Curated list of pitch deck slides
  [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
  
  
- ## Accelerators
+## Accelerators
  
  [5 THINGS TO CONSIDER BEFORE JOINING AN ACCELERATOR](https://www.startupgrind.com/blog/5-things-to-consider-before-joining-an-accelerator/)
