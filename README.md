@@ -33,6 +33,7 @@ Curated list of pitch deck slides
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
+ - [Top 5 Angel Investor Hacks](https://www.crowdfunder.com/blog/top-5-angel-investor-hacks/)
  
 ## Tools
  - [updatemyvc](http://updatemyvc.com/post/81994044620/investor-update)
