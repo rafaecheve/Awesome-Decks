@@ -32,6 +32,7 @@ Curated list of pitch deck slides
   25. [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/blog/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
   26. [The Deck We Used to Raise $1M](https://medium.com/@benln/the-deck-we-used-to-raise-1m-c001eb08f35a#.on33c62vc)
   27. [Top Ten Lies of Entrepreneurs](https://www.garage.com/files/LiesEntre.pdf)
+  28. [How to Build a Seed Round Deck](http://www.techstars.com/content/blog/the-perfect-investor-deck-for-raising-a-seed-round/?hvid=XMjZN)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
