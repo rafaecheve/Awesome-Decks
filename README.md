@@ -46,7 +46,9 @@ Curated list of pitch deck slides
  - [Pitchdeck](https://itunes.apple.com/us/app/pitchdeck/id1029283199/?ref=producthunt)
 
 ## Articles
- [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
+ - [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
+ - [This is how you raise a seed round in 2016](https://medium.com/@pmoe/this-is-how-you-raise-a-seed-round-in-2016-c2b7c4c1beb6?_hsenc=p2ANqtz-_oTkUmv8HfgNExUQ9Fk70wIB0Lo-Qjb8XIKVR8Gu9tTe91jItNY2JKxiE0beXWikt9oG4nlI32QtH2bcV4_UwcI32G3w&_hsmi=25952298#.jqekttn72)
+ 
  
  
 ## Accelerators
