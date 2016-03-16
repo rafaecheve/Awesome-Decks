@@ -39,6 +39,7 @@ Curated list of pitch deck slides
  [Chris Sacca](https://twitter.com/sacca)
  - [Top 5 Angel Investor Hacks](https://www.crowdfunder.com/blog/top-5-angel-investor-hacks/)
  - [The Eightfold Path to Investment](https://www.crowdfunder.com/blog/the-eightfold-path-to-investment/)
+ - [You should have 4 fundraising plans](http://blog.elizabethyin.com/post/140980544590/you-should-have-4-fundraising-plans)
  
 ## Tools
  - [updatemyvc](http://updatemyvc.com/post/81994044620/investor-update)
