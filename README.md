@@ -35,6 +35,7 @@ Curated list of pitch deck slides
   28. [How to Build a Seed Round Deck](http://www.techstars.com/content/blog/the-perfect-investor-deck-for-raising-a-seed-round/?hvid=XMjZN)
   29. [Pitch Deck Examples from successful startups](http://slidebean.com/blog/startups/pitch-deck-examples?utm_source=facebook.com&utm_medium=cpm&utm_campaign=SEOBoost-CR)
   30. [Fundraising pitches are not actually pitches…](http://blog.elizabethyin.com/post/141785344784/fundraising-pitches-are-not-actually-pitches)
+  31. [15 Things I Wish I Knew Before Raising A Seed Round](https://medium.com/art-marketing/15-things-i-wish-i-knew-before-raising-a-seed-round-ff94576ec2f6)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
