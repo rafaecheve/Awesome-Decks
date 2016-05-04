@@ -37,6 +37,7 @@ Curated list of pitch deck slides
   30. [Fundraising pitches are not actually pitches…](http://blog.elizabethyin.com/post/141785344784/fundraising-pitches-are-not-actually-pitches)
   31. [15 Things I Wish I Knew Before Raising A Seed Round](https://medium.com/art-marketing/15-things-i-wish-i-knew-before-raising-a-seed-round-ff94576ec2f6)
   32. [Here’s How You Should Design Your Investor Presentation](http://tech.co/how-design-investor-presentation-2016-03)
+  33. [Pitch, Please: 14 Must-Read Pitch Lessons Every Startup Founder Should Know](http://500.co/pitch-lessons-founders-andrea-500-must-read/)
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
