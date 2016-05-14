@@ -38,6 +38,7 @@ Curated list of pitch deck slides
   31. [15 Things I Wish I Knew Before Raising A Seed Round](https://medium.com/art-marketing/15-things-i-wish-i-knew-before-raising-a-seed-round-ff94576ec2f6)
   32. [Here’s How You Should Design Your Investor Presentation](http://tech.co/how-design-investor-presentation-2016-03)
   33. [Pitch, Please: 14 Must-Read Pitch Lessons Every Startup Founder Should Know](http://500.co/pitch-lessons-founders-andrea-500-must-read/)
+  
 
 ## Investors
  [Chris Sacca](https://twitter.com/sacca)
@@ -55,7 +56,8 @@ Curated list of pitch deck slides
 ## Articles
  - [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
  - [This is how you raise a seed round in 2016](https://medium.com/@pmoe/this-is-how-you-raise-a-seed-round-in-2016-c2b7c4c1beb6?_hsenc=p2ANqtz-_oTkUmv8HfgNExUQ9Fk70wIB0Lo-Qjb8XIKVR8Gu9tTe91jItNY2JKxiE0beXWikt9oG4nlI32QtH2bcV4_UwcI32G3w&_hsmi=25952298#.jqekttn72)
- 
+ - [7 Benefits Your VC Should Provide
+](http://www.techstars.com/content/accelerators/berlin/venture-investor-now/)
  
  
 ## Accelerators
