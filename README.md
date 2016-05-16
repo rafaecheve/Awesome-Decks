@@ -52,6 +52,10 @@ Curated list of pitch deck slides
  - [A PITCH DECK TEMPLATE THAT JUST WORKS](https://pitchdeck.improvepresentation.com)
  - [Pitchdeck](https://itunes.apple.com/us/app/pitchdeck/id1029283199/?ref=producthunt)
 
+## Events
+  - [premoney](http://500.co/premoney-highlights/)
+
+
 
 ## Articles
  - [Secret’s collapse shows the traditional VC funding model is broken](http://venturebeat.com/2015/05/23/4-lessons-from-secrets-collapse-the-traditional-vc-funding-model-is-broken/)
