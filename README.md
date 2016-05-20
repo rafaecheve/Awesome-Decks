@@ -62,6 +62,7 @@ Curated list of pitch deck slides
  - [This is how you raise a seed round in 2016](https://medium.com/@pmoe/this-is-how-you-raise-a-seed-round-in-2016-c2b7c4c1beb6?_hsenc=p2ANqtz-_oTkUmv8HfgNExUQ9Fk70wIB0Lo-Qjb8XIKVR8Gu9tTe91jItNY2JKxiE0beXWikt9oG4nlI32QtH2bcV4_UwcI32G3w&_hsmi=25952298#.jqekttn72)
  - [7 Benefits Your VC Should Provide
 ](http://www.techstars.com/content/accelerators/berlin/venture-investor-now/)
+ - [7 Things Investors & Founders Need to Know about the Japan Startup Ecosystem](http://500.co/japan-startup-ecosystem-founders-investors/)
  
  
 ## Accelerators
