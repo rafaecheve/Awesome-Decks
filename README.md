@@ -65,6 +65,7 @@ Curated list of pitch deck slides
 ](http://www.techstars.com/content/accelerators/berlin/venture-investor-now/)
  - [7 Things Investors & Founders Need to Know about the Japan Startup Ecosystem](http://500.co/japan-startup-ecosystem-founders-investors/)
  - [Understanding Different Types of Angel Investors](https://medium.com/@davidbeisel/understanding-different-types-of-angel-investors-d3e998c993f1?_hsenc=p2ANqtz-_3ITCnliZazHLOAjO2vSv1Rza0H1AxqEW4EmjzS3upBXTbQ_xNyucrKzB1eJ28e4_jL-bsQF-GliODFjKoSKrcc3kNHw&_hsmi=29783225#.cd8aykg30)
+ - [Startup Investing 101](https://fundersclub.com/blog/2016/05/19/startup-investing-diversification/)
  
  
 ## Accelerators
