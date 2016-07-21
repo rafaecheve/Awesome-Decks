@@ -38,6 +38,7 @@ Curated list of pitch deck slides
   31. [15 Things I Wish I Knew Before Raising A Seed Round](https://medium.com/art-marketing/15-things-i-wish-i-knew-before-raising-a-seed-round-ff94576ec2f6)
   32. [Here’s How You Should Design Your Investor Presentation](http://tech.co/how-design-investor-presentation-2016-03)
   33. [Pitch, Please: 14 Must-Read Pitch Lessons Every Startup Founder Should Know](http://500.co/pitch-lessons-founders-andrea-500-must-read/)
+  34. [Michael Seibel, Y Combinator Partner, on pitching your company to investors.](http://themacro.com/articles/2016/07/how-to-pitch-your-company/)
 
   
 
