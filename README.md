@@ -53,6 +53,7 @@ Curated list of pitch deck slides
  - [One Simple Paragraph Every Entrepreneur Should Add to Their Convertible Notes](http://www.bothsidesofthetable.com/2015/05/30/one-simple-paragraph-every-entrepreneur-should-add-to-their-convertible-notes)
  - [A PITCH DECK TEMPLATE THAT JUST WORKS](https://pitchdeck.improvepresentation.com)
  - [Pitchdeck](https://itunes.apple.com/us/app/pitchdeck/id1029283199/?ref=producthunt)
+ - [Startup Pitch Decks](https://attach.io/startup-pitch-decks/)
 
 ## Events
   - [premoney](http://500.co/premoney-highlights/)
