@@ -42,6 +42,8 @@ Curated list of pitch deck slides
   35. [Check out the pitch decks AirBNB and YouTube used to raise millions](http://thenextweb.com/entrepreneur/2016/09/06/airbnb-youtube-pitch-decks/)
   36. [Build a Winning Pitch Deck](https://basetemplates.com/pitch-deck-guide)
   37. [11 tips for creating a pitch deck that will get you funded](https://en.99designs.nl/blog/resources/free-pitch-deck-template/)
+  38. [Startup Pitch Decks](https://www.slideshare.net/schlaf/startup-pitch-decks?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+  
 
 
   
