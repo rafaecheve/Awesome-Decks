@@ -1,5 +1,6 @@
 # Awesome-Decks
-Curated list of pitch deck slides
+Curated list of pitch deck slides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 ## How to
   1. [4 Must-Read Presentations to Help You Excel as an Innovator](https://blog.slideshare.net/2015/05/15/4-must-read-presentations-to-help-you-excel-as-an-innovator/)
